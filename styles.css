@@ -1,0 +1,28 @@
+h3.sub-title {
+    color: #666;
+}
+
+hr.thick {
+    border-top: 2px solid rgba(0,0,0,.1);
+}
+
+ul.no-margin-bottom {
+    margin-bottom: 0;
+}
+
+h3.block-title {
+    border-bottom: 1px solid #333;
+    margin-top: 20px;
+}
+
+.A4 {
+    width: 21cm;
+}
+
+.nowrap {
+    white-space:nowrap;
+}
+
+body {
+    font-size: 10px;
+}
