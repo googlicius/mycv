@@ -22,7 +22,7 @@ const options = {
     base: "http://localhost:3000"
 }
 
-pdf.create(html, options).toFile("./cv_en.pdf", function(err, res) {
+pdf.create(html, options).toFile("./NguyenHaiDang_CV_EN.pdf", function(err, res) {
     if (err) return console.log(err)
     console.log(res) // { filename: '/app/businesscard.pdf' }
 })
