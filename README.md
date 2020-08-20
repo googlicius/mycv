@@ -13,3 +13,5 @@
 - English: `node to-pdf`
 
 - Vietnamese: `node to-pdf-vi`
+  
+**Note**: Rememer to start dev server before generate pdf file.
